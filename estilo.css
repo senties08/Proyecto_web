@@ -1,0 +1,44 @@
+.clase-titulo-h2{
+	color: red;
+}
+
+#EleBlu{
+	color: blue;
+}
+
+#EleYel{
+	color: yellow;
+}
+
+#EleRed{
+	color: red;
+}
+
+#EleOra{
+	color: orange;
+}
+
+#EleWhi{
+	color: white; 
+	text-decoration: blink;
+}
+
+#EleOra{
+	color: orange;
+}
+
+#EleBrown{
+	color: brown;
+}
+
+#ElePink{
+	color: pink;
+}
+
+#EleGre{
+	color: green;
+}
+
+[atributo="ni_idea"]{
+	color: green;
+}
